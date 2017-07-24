@@ -4,6 +4,7 @@ using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 
 namespace AuthUser
 {
+
     public class AUser : IdentityUser
     {
         public virtual AdditionalUserInformation AdditionalUserInformation { get; set; }
