@@ -9,7 +9,6 @@ namespace AuthUser
     {
         public virtual AdditionalUserInformation AdditionalUserInformation { get; set; }
     }
-
     public class AdditionalUserInformation
     {
         public int Id { get; set; }
