@@ -1,0 +1,11 @@
+C:\Projects\Sandbox\UserRegistrationMirror\bin\Debug\netcoreapp1.1\UserRegistrationMirror.deps.json
+C:\Projects\Sandbox\UserRegistrationMirror\bin\Debug\netcoreapp1.1\UserRegistrationMirror.runtimeconfig.json
+C:\Projects\Sandbox\UserRegistrationMirror\bin\Debug\netcoreapp1.1\UserRegistrationMirror.runtimeconfig.dev.json
+C:\Projects\Sandbox\UserRegistrationMirror\bin\Debug\netcoreapp1.1\UserRegistrationMirror.dll
+C:\Projects\Sandbox\UserRegistrationMirror\bin\Debug\netcoreapp1.1\AuthUser.dll
+C:\Projects\Sandbox\UserRegistrationMirror\bin\Debug\netcoreapp1.1\AuthUser.pdb
+C:\Projects\Sandbox\UserRegistrationMirror\obj\Debug\netcoreapp1.1\UserRegistrationMirror.AssemblyInfo.cs
+C:\Projects\Sandbox\UserRegistrationMirror\bin\Debug\netcoreapp1.1\UserRegistrationMirror.pdb
+C:\Projects\Sandbox\UserRegistrationMirror\obj\Debug\netcoreapp1.1\UserRegistrationMirror.dll
+C:\Projects\Sandbox\UserRegistrationMirror\obj\Debug\netcoreapp1.1\UserRegistrationMirror.pdb
+C:\Projects\Sandbox\UserRegistrationMirror\obj\Debug\netcoreapp1.1\UserRegistrationMirror.csprojResolveAssemblyReference.cache

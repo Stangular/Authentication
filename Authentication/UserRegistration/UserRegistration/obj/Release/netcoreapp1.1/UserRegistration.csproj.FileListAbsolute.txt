@@ -1,0 +1,11 @@
+C:\Projects\Sandbox\UserRegistration\UserRegistration\bin\Release\netcoreapp1.1\UserRegistration.deps.json
+C:\Projects\Sandbox\UserRegistration\UserRegistration\bin\Release\netcoreapp1.1\UserRegistration.runtimeconfig.json
+C:\Projects\Sandbox\UserRegistration\UserRegistration\bin\Release\netcoreapp1.1\UserRegistration.runtimeconfig.dev.json
+C:\Projects\Sandbox\UserRegistration\UserRegistration\bin\Release\netcoreapp1.1\UserRegistration.dll
+C:\Projects\Sandbox\UserRegistration\UserRegistration\bin\Release\netcoreapp1.1\UserRegistration.pdb
+C:\Projects\Sandbox\UserRegistration\UserRegistration\bin\Release\netcoreapp1.1\AuthUser.dll
+C:\Projects\Sandbox\UserRegistration\UserRegistration\bin\Release\netcoreapp1.1\AuthUser.pdb
+C:\Projects\Sandbox\UserRegistration\UserRegistration\obj\Release\netcoreapp1.1\UserRegistration.csprojResolveAssemblyReference.cache
+C:\Projects\Sandbox\UserRegistration\UserRegistration\obj\Release\netcoreapp1.1\UserRegistration.AssemblyInfo.cs
+C:\Projects\Sandbox\UserRegistration\UserRegistration\obj\Release\netcoreapp1.1\UserRegistration.dll
+C:\Projects\Sandbox\UserRegistration\UserRegistration\obj\Release\netcoreapp1.1\UserRegistration.pdb

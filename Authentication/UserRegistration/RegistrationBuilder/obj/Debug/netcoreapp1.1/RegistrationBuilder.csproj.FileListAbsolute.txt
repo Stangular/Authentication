@@ -1,0 +1,17 @@
+C:\Projects\Sandbox\UserRegistration\RegistrationBuilder\bin\Debug\netcoreapp1.1\RegistrationBuilder.deps.json
+C:\Projects\Sandbox\UserRegistration\RegistrationBuilder\bin\Debug\netcoreapp1.1\RegistrationBuilder.runtimeconfig.json
+C:\Projects\Sandbox\UserRegistration\RegistrationBuilder\bin\Debug\netcoreapp1.1\RegistrationBuilder.runtimeconfig.dev.json
+C:\Projects\Sandbox\UserRegistration\RegistrationBuilder\bin\Debug\netcoreapp1.1\RegistrationBuilder.dll
+C:\Projects\Sandbox\UserRegistration\RegistrationBuilder\obj\Debug\netcoreapp1.1\RegistrationBuilder.AssemblyInfo.cs
+C:\Projects\Sandbox\UserRegistration\RegistrationBuilder\bin\Debug\netcoreapp1.1\RegistrationBuilder.pdb
+C:\Projects\Sandbox\UserRegistration\RegistrationBuilder\obj\Debug\netcoreapp1.1\RegistrationBuilder.dll
+C:\Projects\Sandbox\UserRegistration\RegistrationBuilder\obj\Debug\netcoreapp1.1\RegistrationBuilder.pdb
+C:\Projects\Sandbox\Authentication\UserRegistration\RegistrationBuilder\bin\Debug\netcoreapp1.1\RegistrationBuilder.deps.json
+C:\Projects\Sandbox\Authentication\UserRegistration\RegistrationBuilder\bin\Debug\netcoreapp1.1\RegistrationBuilder.runtimeconfig.json
+C:\Projects\Sandbox\Authentication\UserRegistration\RegistrationBuilder\bin\Debug\netcoreapp1.1\RegistrationBuilder.runtimeconfig.dev.json
+C:\Projects\Sandbox\Authentication\UserRegistration\RegistrationBuilder\bin\Debug\netcoreapp1.1\RegistrationBuilder.dll
+C:\Projects\Sandbox\Authentication\UserRegistration\RegistrationBuilder\bin\Debug\netcoreapp1.1\RegistrationBuilder.pdb
+C:\Projects\Sandbox\Authentication\UserRegistration\RegistrationBuilder\obj\Debug\netcoreapp1.1\RegistrationBuilder.csprojResolveAssemblyReference.cache
+C:\Projects\Sandbox\Authentication\UserRegistration\RegistrationBuilder\obj\Debug\netcoreapp1.1\RegistrationBuilder.AssemblyInfo.cs
+C:\Projects\Sandbox\Authentication\UserRegistration\RegistrationBuilder\obj\Debug\netcoreapp1.1\RegistrationBuilder.dll
+C:\Projects\Sandbox\Authentication\UserRegistration\RegistrationBuilder\obj\Debug\netcoreapp1.1\RegistrationBuilder.pdb

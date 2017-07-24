@@ -1,0 +1,11 @@
+C:\Projects\Sandbox\UserToken\bin\Release\netcoreapp1.1\UserToken.deps.json
+C:\Projects\Sandbox\UserToken\bin\Release\netcoreapp1.1\UserToken.runtimeconfig.json
+C:\Projects\Sandbox\UserToken\bin\Release\netcoreapp1.1\UserToken.runtimeconfig.dev.json
+C:\Projects\Sandbox\UserToken\bin\Release\netcoreapp1.1\UserToken.dll
+C:\Projects\Sandbox\UserToken\bin\Release\netcoreapp1.1\UserToken.pdb
+C:\Projects\Sandbox\UserToken\bin\Release\netcoreapp1.1\AuthUser.dll
+C:\Projects\Sandbox\UserToken\bin\Release\netcoreapp1.1\AuthUser.pdb
+C:\Projects\Sandbox\UserToken\obj\Release\netcoreapp1.1\UserToken.csprojResolveAssemblyReference.cache
+C:\Projects\Sandbox\UserToken\obj\Release\netcoreapp1.1\UserToken.AssemblyInfo.cs
+C:\Projects\Sandbox\UserToken\obj\Release\netcoreapp1.1\UserToken.dll
+C:\Projects\Sandbox\UserToken\obj\Release\netcoreapp1.1\UserToken.pdb

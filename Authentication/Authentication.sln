@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AuthUser", "AuthUser\AuthUser.csproj", "{65455920-0080-4BEF-A3EB-C448636678F5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserLogin", "UserLogin\UserLogin.csproj", "{4612E830-47ED-4FC0-BA5C-B51C5AA76518}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserLoginMirror", "UserLoginMirror\UserLoginMirror.csproj", "{4D57E304-B9EF-404A-A741-DF9331479D43}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserRegistration", "UserRegistration\UserRegistration\UserRegistration.csproj", "{E3CF1050-F6BF-476E-8B94-5B6D1C467677}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RegistrationBuilder", "UserRegistration\RegistrationBuilder\RegistrationBuilder.csproj", "{8C699448-4B4C-4FD6-8ECD-FD25F27CC9AB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserToken", "UserToken\UserToken.csproj", "{D13271FB-113D-4C2E-8D29-D6B92A07AE50}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UserTokenMirror", "UserTokenMirror\UserTokenMirror.csproj", "{E6CFF351-CEAB-4D08-B762-692CA40C89C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65455920-0080-4BEF-A3EB-C448636678F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65455920-0080-4BEF-A3EB-C448636678F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65455920-0080-4BEF-A3EB-C448636678F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65455920-0080-4BEF-A3EB-C448636678F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4612E830-47ED-4FC0-BA5C-B51C5AA76518}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4612E830-47ED-4FC0-BA5C-B51C5AA76518}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4612E830-47ED-4FC0-BA5C-B51C5AA76518}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4612E830-47ED-4FC0-BA5C-B51C5AA76518}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D57E304-B9EF-404A-A741-DF9331479D43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D57E304-B9EF-404A-A741-DF9331479D43}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D57E304-B9EF-404A-A741-DF9331479D43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D57E304-B9EF-404A-A741-DF9331479D43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3CF1050-F6BF-476E-8B94-5B6D1C467677}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3CF1050-F6BF-476E-8B94-5B6D1C467677}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3CF1050-F6BF-476E-8B94-5B6D1C467677}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3CF1050-F6BF-476E-8B94-5B6D1C467677}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C699448-4B4C-4FD6-8ECD-FD25F27CC9AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C699448-4B4C-4FD6-8ECD-FD25F27CC9AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C699448-4B4C-4FD6-8ECD-FD25F27CC9AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C699448-4B4C-4FD6-8ECD-FD25F27CC9AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D13271FB-113D-4C2E-8D29-D6B92A07AE50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D13271FB-113D-4C2E-8D29-D6B92A07AE50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D13271FB-113D-4C2E-8D29-D6B92A07AE50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D13271FB-113D-4C2E-8D29-D6B92A07AE50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6CFF351-CEAB-4D08-B762-692CA40C89C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6CFF351-CEAB-4D08-B762-692CA40C89C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6CFF351-CEAB-4D08-B762-692CA40C89C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6CFF351-CEAB-4D08-B762-692CA40C89C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Projects\Sandbox\AuthUser\bin\Debug\netcoreapp1.1\AuthUser.deps.json
+C:\Projects\Sandbox\AuthUser\bin\Debug\netcoreapp1.1\AuthUser.dll
+C:\Projects\Sandbox\AuthUser\bin\Debug\netcoreapp1.1\AuthUser.pdb
+C:\Projects\Sandbox\AuthUser\obj\Debug\netcoreapp1.1\AuthUser.AssemblyInfo.cs
+C:\Projects\Sandbox\AuthUser\obj\Debug\netcoreapp1.1\AuthUser.dll
+C:\Projects\Sandbox\AuthUser\obj\Debug\netcoreapp1.1\AuthUser.pdb
+C:\Projects\Sandbox\AuthUser\obj\Debug\netcoreapp1.1\AuthUser.csprojResolveAssemblyReference.cache
+C:\Projects\Sandbox\Authentication\AuthUser\bin\Debug\netcoreapp1.1\AuthUser.deps.json
+C:\Projects\Sandbox\Authentication\AuthUser\bin\Debug\netcoreapp1.1\AuthUser.dll
+C:\Projects\Sandbox\Authentication\AuthUser\bin\Debug\netcoreapp1.1\AuthUser.pdb
+C:\Projects\Sandbox\Authentication\AuthUser\obj\Debug\netcoreapp1.1\AuthUser.csprojResolveAssemblyReference.cache
+C:\Projects\Sandbox\Authentication\AuthUser\obj\Debug\netcoreapp1.1\AuthUser.AssemblyInfo.cs
+C:\Projects\Sandbox\Authentication\AuthUser\obj\Debug\netcoreapp1.1\AuthUser.dll
+C:\Projects\Sandbox\Authentication\AuthUser\obj\Debug\netcoreapp1.1\AuthUser.pdb
